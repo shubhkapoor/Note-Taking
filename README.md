@@ -16,17 +16,13 @@
    ```bash
    npm install
 
-4. Start MongoDB:
+3. Start MongoDB:
    ```bash
    mongod
 
-6. Run the server:
+4. Run the server:
    ```bash
    npm start
-
-8. To run tests:
-   ```bash
-   npm test
 
 
 ## API Endpoints
