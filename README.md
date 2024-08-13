@@ -13,19 +13,23 @@
    cd note-taking
 
 2. Install dependencies:
+   ```bash
    npm install
 
-3. Start MongoDB:
+4. Start MongoDB:
+   ```bash
    mongod
 
-4. Run the server:
+6. Run the server:
+   ```bash
    npm start
 
-5. To run tests:
+8. To run tests:
+   ```bash
    npm test
 
 
-# API Endpoints
+## API Endpoints
 
 - POST /notes/: Create a new note.
 - GET /notes/:id: Fetch a note by its primary key.
